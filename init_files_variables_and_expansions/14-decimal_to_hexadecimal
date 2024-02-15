@@ -1,2 +1,2 @@
 #!/bin/bash
-prinf "%16\n" $DECIMAL 
+prinf "%x\n" $DECIMAL 
